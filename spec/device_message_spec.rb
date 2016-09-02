@@ -1,0 +1,3 @@
+describe "DeviceMessage" do
+
+end

@@ -1,0 +1,2 @@
+class DeviceMessage
+end
